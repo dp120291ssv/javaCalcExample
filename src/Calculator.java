@@ -16,6 +16,11 @@
  * === String - "example of long string 12345" (POPULAR)
  * === Array (POPULAR)
  * === Object (POPULAR)
+ *
+ * testExampleName - camelCase
+ * TEST_PARAM - snake_case
+ * test-case - kebab-case (only js)
+ *
  * */
 // еще пример комментария
 
